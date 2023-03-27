@@ -28,3 +28,5 @@
   <a href="https://www.linkedin.com/in/amanda-campezan-pereira-181138232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  ![Snake animation]https://github.com/AmandaCP03/
